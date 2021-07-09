@@ -1,0 +1,4 @@
+{"msg":"init","dagFile":"artifacts\\tundra.dag","targets":[]}
+{"msg":"newNode","annotation":"Il2Cpp C:/Users/saule/DSDM/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so","index":1}
+{"msg":"noderesult","annotation":"Il2Cpp C:/Users/saule/DSDM/Library/Il2cppBuildCache/Android/arm64-v8a/Native/arm64-v8a/libil2cpp.so","index":1,"exitcode":0}
+{"msg":"newNode","annotation":"all_tundra_nodes","index":0}
